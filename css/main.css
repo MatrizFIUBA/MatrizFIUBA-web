@@ -1,3 +1,29 @@
-#test {
-    color: blueviolet;
+html {
+    font-family: "Arial", sans-serif;
+}
+
+.main-page {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+    justify-content: flex-start;
+}
+
+.header--home {
+    padding: 0 0 0 0;
+}
+
+.nav-brand--header:hover {
+    color: white;
+}
+
+.footer--index {
+    font-size: small;
+    margin-top: auto;
+}
+
+.parciales--header:hover {
+    color: white;
+    font-weight: 900;
+    box-shadow: 2px 5px 0px 0px rgba(0,0,0,0.6);
 }
