@@ -45,3 +45,12 @@ html {
 .border-radius-card {
     border-radius: 15px !important;
 }
+
+.btn-parciales {
+    margin-bottom: 5px !important;
+}
+
+.btn-finales {
+    margin-bottom: 5px !important;
+    margin-top: 10px !important;
+}
